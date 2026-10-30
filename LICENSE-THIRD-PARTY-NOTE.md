@@ -1,0 +1,1 @@
+The `site_management/api/PHPMailer` directory is third-party code included in the original project. Its original license files and notices should be preserved. The project author does not claim ownership of PHPMailer.
